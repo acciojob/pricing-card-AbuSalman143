@@ -38,7 +38,7 @@
 }
 
 .pricing-button {
-  background-color: #008CBA;
+  background-color: lightpink;
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -47,7 +47,5 @@
   cursor: pointer;
 }
 
-.pricing-button:hover {
-  background-color: #006080;
-}
+
 }
